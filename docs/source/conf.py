@@ -49,6 +49,7 @@ extensions = [
     # "scanpydoc.elegant_typehints",
     "sphinx_autorun",
     "sphinx_favicon",
+    "sphinxcontrib.jquery",
 ]
 
 autosummary_generate = True
